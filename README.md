@@ -1,1 +1,1 @@
-# Business-Case-Studies
+# Medical Insurance Case Study
