@@ -1,1 +1,1 @@
-# Medical Insurance Case Study
+# Medical Insurance Case Study - Linear Regression
