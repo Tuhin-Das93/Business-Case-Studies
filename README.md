@@ -1,1 +1,1 @@
-# Medical Insurance Case Study - Linear Regression
+# Medical Insurance Case Study - Algorithm- MLR
