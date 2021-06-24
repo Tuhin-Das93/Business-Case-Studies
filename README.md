@@ -6,3 +6,5 @@
 <h4 id="https://github.com/OmdenaAI/omdena-ghana-creditworthiness/blob/main/src/tasks/task-2-exploratorary-data-analysis/Ghana%20Living%20Standard%20Survey%207.ipynb">
 Optional Fields
 </h4>
+[see above](#https://github.com/OmdenaAI/omdena-ghana-creditworthiness/blob/main/src/tasks/task-2-exploratorary-data-analysis/Ghana%20Living%20Standard%20Survey%207.ipynb")
+<a id="my-anchor"></a>
