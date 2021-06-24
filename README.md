@@ -10,3 +10,4 @@ Optional Fields
 <a id="my-anchor"></a>
 
 [Go to Real Cool Heading section](#https://github.com/OmdenaAI/omdena-ghana-creditworthiness/blob/main/src/tasks/task-2-exploratorary-data-analysis/Ghana%20Living%20Standard%20Survey%207.ipynb)
+[logo]:https://github.com/OmdenaAI/omdena-ghana-creditworthiness/blob/main/src/tasks/task-2-exploratorary-data-analysis/Ghana%20Living%20Standard%20Survey%207.ipynb
